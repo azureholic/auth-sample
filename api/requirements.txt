@@ -1,0 +1,7 @@
+fastapi
+fastapi_azure_auth 
+uvicorn
+python-dotenv
+python-jose
+requests
+msal
